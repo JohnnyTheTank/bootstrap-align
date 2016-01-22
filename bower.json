@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap-align",
+  "homepage": "https://github.com/JohnnyTheTank/bootstrap-align",
+  "authors": [
+    "Jonathan Hornung <jonathan.hornung@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "description": "Missing align classes for Bootstrap",
+  "main": "dist/bootstrap3-align.min.css",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "align",
+    "bootstrap",
+    "css",
+    "scss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "*"
+  }
+}

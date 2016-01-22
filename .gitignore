@@ -1,0 +1,6 @@
+/.sass-cache
+/node_modules
+/.idea
+.DS_Store
+.codekit-cache
+/bower_components
