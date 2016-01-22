@@ -32,13 +32,6 @@ Missing **align** library (css & sass) for [twitter bootstrap](https://github.co
     <script src="bootstrap4-align.min.css"></script>
     ```
 
-3. Sample Markup
-
-    ```html
-    <div>
-
-    </div>
-    ```
 
 ## available classes
 
