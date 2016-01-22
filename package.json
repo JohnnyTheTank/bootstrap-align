@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-align",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Missing align classes for Bootstrap",
   "main": "dist/bootstrap3-align.min.css",
   "scripts": {

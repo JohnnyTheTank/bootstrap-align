@@ -198,15 +198,7 @@
     text-align: left !important;
   }
 
-  .lg-only-text-left {
-    text-align: left !important;
-  }
-
   .lg-text-center {
-    text-align: center !important;
-  }
-
-  .lg-only-text-center {
     text-align: center !important;
   }
 
@@ -214,15 +206,7 @@
     text-align: right !important;
   }
 
-  .lg-only-text-right {
-    text-align: right !important;
-  }
-
   .lg-text-justify {
-    text-align: justify !important;
-  }
-
-  .lg-only-text-justify {
     text-align: justify !important;
   }
 }
