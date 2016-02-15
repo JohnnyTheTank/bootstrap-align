@@ -1,6 +1,9 @@
 # bootstrap-align
 Missing **align** library (css & sass) for [twitter bootstrap](https://github.com/twbs/bootstrap) (version 3 & 4)
 
+[![npm version](https://badge.fury.io/js/bootstrap-align.png)](https://badge.fury.io/js/bootstrap-align)
+[![Bower version](https://badge.fury.io/bo/bootstrap-align.png)](https://badge.fury.io/bo/bootstrap-align)
+
 ## usage
 
 1. Install via either [bower](http://bower.io/), [npm](https://www.npmjs.com/) or downloaded files:
@@ -46,9 +49,6 @@ Missing **align** library (css & sass) for [twitter bootstrap](https://github.co
 | `.xs-only-text-right`     | `.sm-only-text-right`     | `.md-only-text-right`     |  |
 | `.xs-text-justify`        | `.sm-text-justify`        | `.md-text-justify`        | `.lg-text-justify`        |
 | `.xs-only-text-justify`   | `.sm-only-text-justify`   | `.md-only-text-justify`   |  |
-
-
-
 
 
 
