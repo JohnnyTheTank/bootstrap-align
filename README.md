@@ -14,25 +14,25 @@ Missing **align** library (css & sass) for [twitter bootstrap](https://github.co
     1. when using bower
     ```html
     <!-- bootstrap 3 -->
-    <script src="bower_components/bootstrap-align/dist/bootstrap3-align.min.css"></script>
+    <link rel="stylesheet" href="bower_components/bootstrap-align/dist/bootstrap3-align.min.css">
     <!-- bootstrap 4 -->
-    <script src="bower_components/bootstrap-align/dist/bootstrap4-align.min.css"></script>
+    <link rel="stylesheet" href="bower_components/bootstrap-align/dist/bootstrap4-align.min.css">
     ```
 
     2. when using npm
     ```html
     <!-- bootstrap 3 -->
-    <script src="node_modules/bootstrap-align/dist/bootstrap3-align.min.css"></script>
+    <link rel="stylesheet" href="node_modules/bootstrap-align/dist/bootstrap3-align.min.css">
     <!-- bootstrap 4 -->
-    <script src="node_modules/bootstrap-align/dist/bootstrap4-align.min.css"></script>
+    <link rel="stylesheet" href="node_modules/bootstrap-align/dist/bootstrap4-align.min.css">
     ```
     
     3. when using downloaded files
     ```html
     <!-- bootstrap 3 -->
-    <script src="bootstrap3-align.min.css"></script>
+    <link rel="stylesheet" href="bootstrap3-align.min.css">
     <!-- bootstrap 4 -->
-    <script src="bootstrap4-align.min.css"></script>
+    <link rel="stylesheet" href="bootstrap4-align.min.css">
     ```
 
 
